@@ -18,3 +18,7 @@ assets:
   method: copy
   source:
   - name: msg/jp/sys.bar
+- name: msg/jp/tt.bar
+  method: copy
+  source:
+  - name: msg/jp/tt.bar
