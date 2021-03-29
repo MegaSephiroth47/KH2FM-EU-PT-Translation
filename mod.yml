@@ -6,15 +6,15 @@ assets:
   method: copy
   source:
   - name: menu/fm/title.2ld
-- name: msg/jp/fontimage.bar
+- name: msg/fontimage.bar
   method: copy
   source:
-  - name: msg/jp/fontimage.bar
-- name: msg/jp/fontinfo.bar
+  - name: msg/fontimage.bar
+- name: msg/fontinfo.bar
   method: copy
   source:
-  - name: msg/jp/fontinfo.bar
-- name: msg/jp/sys.bar
+  - name: msg/fontinfo.bar
+- name: msg/sys.bar
   method: copy
   source:
-  - name: msg/jp/sys.bar
+  - name: msg/sys.bar
