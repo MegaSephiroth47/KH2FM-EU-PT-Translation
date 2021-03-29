@@ -6,7 +6,7 @@ assets:
   method: copy
   source:
   - name: menu/fm/title.2ld
-- name: msg/fontimage.bar
+- name: msg/jp/fontimage.bar
   method: copy
   source:
   - name: msg/jp/fontimage.bar
