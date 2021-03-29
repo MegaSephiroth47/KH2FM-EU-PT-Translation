@@ -9,12 +9,12 @@ assets:
 - name: msg/fontimage.bar
   method: copy
   source:
-  - name: msg/fontimage.bar
-- name: msg/fontinfo.bar
+  - name: msg/jp/fontimage.bar
+- name: msg/jp/fontinfo.bar
   method: copy
   source:
-  - name: msg/fontinfo.bar
-- name: msg/sys.bar
+  - name: msg/jp/fontinfo.bar
+- name: msg/jp/sys.bar
   method: copy
   source:
-  - name: msg/sys.bar
+  - name: msg/jp/sys.bar
