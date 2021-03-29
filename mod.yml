@@ -10,7 +10,7 @@ assets:
   method: copy
   source:
   - name: msg/jp/fontimage.bar
-- name: msg/fontinfo.bar
+- name: msg/jp/fontinfo.bar
   method: copy
   source:
   - name: msg/jp/fontinfo.bar
