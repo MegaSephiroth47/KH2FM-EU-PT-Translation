@@ -11,32 +11,32 @@ Progress:
 
   Custscenes:
 
-    Twilight Town -
+    Twilight Town - 3%
 
-    Hollow Bastion - 
+    Hollow Bastion - 0% 
 
-    Beast Castle -
+    Beast Castle - 0% 
 
-    Land of Dragons - 
+    Land of Dragons - 0% 
 
-    Olympius Colysium -
+    Olympius Colysium - 0% 
 
-    Disney Castle - 
+    Disney Castle - 0% 
 
-    Timeless River - 
+    Timeless River - 0%  
 
-    Port Royal - 
+    Port Royal - 0% 
 
-    Agrabah - 
+    Agrabah - 0% 
 
-    Halloween Town - 
+    Halloween Town - 0% 
 
-    Pride Lands - 
+    Pride Lands - 0% 
 
-    Space Paranoids - 
+    Space Paranoids - 0% 
 
-    100 Acre Woods - 
+    100 Acre Woods - 0% 
 
-    Atlantica - 
+    Atlantica - 0% 
 
-    The World That Never Was 
+    The World That Never Was - 0% 
