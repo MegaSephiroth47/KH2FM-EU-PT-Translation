@@ -1,6 +1,8 @@
 title: EU-PT KH2FM Translation
 originalAuthor: MegaSephiroth47
 description: European Portuguese translation for KH2FM
+	     
+	     More information after release.
 assets:
 - name: menu/fm/title.2ld
   method: copy
@@ -22,3 +24,7 @@ assets:
   method: copy
   source:
   - name: msg/jp/tt.bar
+- name: msg/jp/di.bar
+  method: copy
+  source:
+  - name: msg/jp/di.bar

@@ -94,7 +94,7 @@ Progress:
 
     The World That Never Was - 0% 
     
-    Other - 0%
+    Other - 20%
     
     
   Gummi Ship - 0%  
