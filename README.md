@@ -7,8 +7,45 @@ Progress:
 
   Menus:
   
+    Tutorials - 
   
+    Items:  
+    
+      Keyblades - 30%
+      
+      Staffs -
+      
+      Shields -
+      
+      Party Members Weapons - 
+      
+      Synthesis - 
+      
+      Other -
+    
+    Abilities:
+    
+      Action -
+      
+      Growth -
+      
+      Support -
+    
+    Commands Menu:
+    
+     Magic -
+     
+     Items -
+     
+     Drive Forms -
+     
+     Limits -
+     
+     Summons -
 
+     Reaction Commands - 
+     
+     
   Custscenes:
 
     Twilight Town - 3%
