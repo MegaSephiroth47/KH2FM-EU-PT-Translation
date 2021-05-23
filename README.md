@@ -7,71 +7,59 @@ Progress:
 
   Menus:
   
-    Tutorials - 
+    Tutorials - 0%
     
     
     Items:  
     
       Keyblades - 30%
       
-      Staffs -
+      Staffs - 0%
       
-      Shields -
+      Shields - 0%
       
-      Party Members Weapons - 
+      Party Members Weapons - 0% 
       
-      Synthesis - 
+      Synthesis - 0%
       
-      Other -
+      Other - 20%
       
     
     Abilities:
     
-      Action -
+      Action - 0%
       
-      Growth -
+      Growth - 0%
       
-      Support -
+      Support - 0%
     
     
-    Commands Menu:
-    
-     Magic -
-     
-     Items -
-     
-     Drive Forms -
-     
-     Limits -
-     
-     Summons -
-
-     Reaction Commands - 
+    Commands Menu - 70%
      
      
     Jiminy´s Journal:
     
-      Ansem Reports -
+      Ansem Reports - 0%
       
-      Character Files -
+      Character Files - 0%
       
-      The Heartless - 
+      The Heartless - 0%
       
-      The Nobodies - 
+      The Nobodies - 0%
       
-      Treasures - 
+      Treasures - 0%
       
-      Puzzles - 
+      Puzzles - 0%
       
-      Maps -
+      Maps - 0%
       
-      Missions - 
+      Missions - 0% 
       
-      Minigames - 
+      Minigames - 0%
       
-      Limits -
+      Limits - 0%
       
-      Synthesis Notes - 
+      Synthesis Notes - 0% 
     
      
   Custscenes:
@@ -105,3 +93,8 @@ Progress:
     Atlantica - 0% 
 
     The World That Never Was - 0% 
+    
+    Other - 0%
+    
+    
+  Gummi Ship - 0%  
