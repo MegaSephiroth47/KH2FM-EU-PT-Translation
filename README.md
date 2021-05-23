@@ -8,7 +8,8 @@ Progress:
   Menus:
   
     Tutorials - 
-  
+    
+    
     Items:  
     
       Keyblades - 30%
@@ -22,6 +23,7 @@ Progress:
       Synthesis - 
       
       Other -
+      
     
     Abilities:
     
@@ -30,6 +32,7 @@ Progress:
       Growth -
       
       Support -
+    
     
     Commands Menu:
     
@@ -45,6 +48,31 @@ Progress:
 
      Reaction Commands - 
      
+     
+    Jiminy´s Journal:
+    
+      Ansem Reports -
+      
+      Character Files -
+      
+      The Heartless - 
+      
+      The Nobodies - 
+      
+      Treasures - 
+      
+      Puzzles - 
+      
+      Maps -
+      
+      Missions - 
+      
+      Minigames - 
+      
+      Limits -
+      
+      Synthesis Notes - 
+    
      
   Custscenes:
 
