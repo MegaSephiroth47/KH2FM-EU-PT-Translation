@@ -34,7 +34,7 @@ Progress:
       Support - 0%
     
     
-    Commands Menu - 70%
+    Commands Menu - 80%
      
      
     Jiminy´s Journal:
@@ -49,7 +49,7 @@ Progress:
       
       Treasures - 0%
       
-      Puzzles - 0%
+      Puzzles - 80%
       
       Maps - 0%
       
