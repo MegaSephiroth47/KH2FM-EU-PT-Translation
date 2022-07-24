@@ -26,3 +26,7 @@ assets:
   method: copy
   source:
   - name: msg/jp/di.bar
+- name: msg/jp/jm.bar
+  method: copy
+  source:
+  - name: msg/jp/jm.bar
