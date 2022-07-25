@@ -49,7 +49,7 @@ Progress:
       
       Treasures - 0%
       
-      Puzzles - 80%
+      Puzzles - 85%
       
       Maps - 0%
       
